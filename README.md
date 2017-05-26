@@ -9,6 +9,10 @@ TEMP 溫度，單位 攝氏<br>
 HUMD 相對濕度，單位 百分比率，此處以實數 0-1.0 記錄<br>
 PRES 測站氣壓，單位 百帕<br>
 H_24R 日累積雨量，單位 毫米<br>
+CITY 縣市<br>
+CITY_SN 縣市編號<br>
+TOWN 鄉鎮<br>
+TOWN_SN 鄉鎮編號<br>
 <br>
 資料來源:<br>
 自動氣象站資料集說明檔:<br>
